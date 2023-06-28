@@ -1,0 +1,48 @@
+{
+    "Skills" : [
+        {
+            "id" : 1,
+            "path" : "/svg/C.svg"
+        },
+        {
+            "id" : 2,
+            "path" : "/svg/Python-Dark.svg"
+        },
+        {
+            "id" : 3,
+            "path" : "/svg/HTML.svg"
+        },
+        {
+            "id" : 4,
+            "path" : "/svg/CSS.svg"
+        },
+        {
+            "id" : 5,
+            "path" : "/svg/TailWindCSS-Dark.svg"
+        },
+        {
+            "id" : 6,
+            "path" : "/svg/React-Dark.svg"
+        },
+        {
+            "id" : 7,
+            "path" : "/svg/MongoDB.svg"
+        },
+        {
+            "id" : 8,
+            "path" : "/svg/ExpressJS-Dark.svg"
+        },
+        {
+            "id" : 9,
+            "path" : "/svg/Java-Dark.svg"
+        },
+        {
+            "id" : 10,
+            "path" : "/svg/Javascript.svg"
+        },
+        {
+            "id" : 11,
+            "path" : "/svg/NodeJS-Dark.svg"
+        }
+    ]
+}
