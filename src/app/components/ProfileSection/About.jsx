@@ -3,7 +3,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <section className='mt-3 flex flex-col items-center justify-center'>
+    <section className='flex flex-col items-center justify-center'>
         <div className="">
             <Image src="https://avatars.githubusercontent.com/u/80524895?v=4" alt='GithubImage' width={500} height={500} className='w-[315px]'/>
         </div>
