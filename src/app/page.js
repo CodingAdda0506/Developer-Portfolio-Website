@@ -5,6 +5,7 @@ import Techstack from './components/Techstack';
 import ProjectSection from './components/ProjectSection';
 import About from './components/ProfileSection/About';
 import Social from './components/ProfileSection/Social';
+import Achievements from './components/ProfileSection/Achievements';
 
 export default function Home() {
   return (
@@ -16,7 +17,7 @@ export default function Home() {
         <div className="my-2 w-[300px] border-2 border-[#768390]"></div>
         <Social />
         <div className="my-2 w-[300px] border-2 border-[#768390]"></div>
-
+        <Achievements />
       </section>
       {/* right section  */}
       <section className="h-auto w-[75%] border-l-2 border-[#768390] flex flex-col justify-start items-center">
