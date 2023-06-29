@@ -3,7 +3,7 @@ import React from 'react'
 const AboutMe = () => {
     return (
         // About section 
-        <div className="my-4 w-[850px]">
+        <div className="my-4 w-[700px]">
             {/* About section title  */}
             <div className="text-[30px] text-white font-bold">
                 👨🏻‍💻About Me,

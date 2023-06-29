@@ -3,14 +3,16 @@ import BannerSection from './components/BannerSection';
 import AboutMe from './components/AboutMe';
 import Techstack from './components/Techstack';
 import ProjectSection from './components/ProjectSection';
+import About from './components/ProfileSection/About';
 
 export default function Home() {
   return (
     // main section
     <section className="font-firaCode bg-[#22272e] h-auto w-auto flex justify-center items-center">
       {/* // left section */}
-      <section className="h-auto w-[25%] border-2 border-red-500">
-        left section
+      <section className="h-[250vh] w-[25%]">
+        <About />
+        <div className="my-2 w-[300px] border-2 border-[#768390]"></div>
       </section>
       {/* right section  */}
       <section className="h-auto w-[75%] border-l-2 border-[#768390] flex flex-col justify-start items-center">

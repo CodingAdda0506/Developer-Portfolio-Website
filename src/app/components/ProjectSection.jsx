@@ -4,7 +4,7 @@ import ProjectCard from './ProjectCard'
 const ProjectSection = () => {
   return (
     // Project Main Section 
-    <div className='my-4 text-white w-[850px] flex flex-col justify-center items-start'>
+    <div className='my-4 text-white w-[700px] flex flex-col justify-center items-start'>
         {/* Project Title  */}
         <div className="text-[30px] text-white font-bold">
         💻Projects,

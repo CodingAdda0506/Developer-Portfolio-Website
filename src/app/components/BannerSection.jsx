@@ -7,7 +7,7 @@ const BannerSection = () => {
         <div className="text-[30px] text-white font-bold">
             Hey 👋,
         </div>
-        <Image src="/githubBanner.png" className="w-[850px]" width={500} height={500} alt="Banner" />
+        <Image src="/githubBanner.png" className="w-[700px]" width={500} height={500} alt="Banner" />
     </div>
   )
 }

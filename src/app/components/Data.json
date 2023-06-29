@@ -2,39 +2,39 @@
     "Skills" : [
         {
             "id" : 1,
-            "path" : "/svg/C.svg"
+            "path" : "/svg/AfterEffects.svg"
         },
         {
             "id" : 2,
-            "path" : "/svg/Python-Dark.svg"
-        },
-        {
-            "id" : 3,
-            "path" : "/svg/HTML.svg"
-        },
-        {
-            "id" : 4,
-            "path" : "/svg/CSS.svg"
-        },
-        {
-            "id" : 5,
-            "path" : "/svg/TailWindCSS-Dark.svg"
-        },
-        {
-            "id" : 6,
             "path" : "/svg/React-Dark.svg"
         },
         {
-            "id" : 7,
-            "path" : "/svg/MongoDB.svg"
+            "id" : 3,
+            "path" : "/svg/NodeJS-Dark.svg"
         },
         {
-            "id" : 8,
+            "id" : 4,
             "path" : "/svg/ExpressJS-Dark.svg"
         },
         {
+            "id" : 5,
+            "path" : "/svg/MongoDB.svg"
+        },
+        {
+            "id" : 6,
+            "path" : "/svg/Linux-Dark.svg"
+        },
+        {
+            "id" : 7,
+            "path" : "/svg/Django.svg"
+        },
+        {
+            "id" : 8,
+            "path" : "/svg/HTML.svg"
+        },
+        {
             "id" : 9,
-            "path" : "/svg/Java-Dark.svg"
+            "path" : "/svg/CSS.svg"
         },
         {
             "id" : 10,
@@ -42,7 +42,51 @@
         },
         {
             "id" : 11,
-            "path" : "/svg/NodeJS-Dark.svg"
+            "path" : "/svg/C.svg"
+        },
+        {
+            "id" : 12,
+            "path" : "/svg/Java-Dark.svg"
+        },
+        {
+            "id" : 13,
+            "path" : "/svg/Python-Dark.svg"
+        },
+        {
+            "id": 14,
+            "path": "/svg/Redux.svg"
+        },
+        {
+            "id": 15,
+            "path": "/svg/TailwindCSS-Dark.svg"
+        },
+        {
+            "id": 16,
+            "path": "/svg/Vite-Dark.svg"
+        },
+        {
+            "id": 17,
+            "path": "/svg/Vercel-Dark.svg"
+        },
+        {
+            "id": 18,
+            "path": "/svg/Postman.svg"
+        },
+        {
+            "id": 19,
+            "path": "/svg/Premiere.svg"
+        },
+        {
+            "id": 20,
+            "path": "/svg/Git.svg"
+        },
+        {
+            "id": 21,
+            "path": "/svg/Figma-Dark.svg"
+        },
+        {
+            "id": 22,
+            "path": "/svg/Flask-Dark.svg"
         }
     ]
 }
