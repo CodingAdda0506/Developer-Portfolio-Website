@@ -14,10 +14,10 @@ const AboutMe = () => {
                     💡 I like to explore data science and Machine Learning and develop solutions.
                 </div>
                 <div className="">
-                    🎓 I'm currently studying Information Technology at the University of Mumbai.
+                    🎓 I&apos;m currently studying Information Technology at the University of Mumbai.
                 </div>
                 <div className="">
-                    🌱 I'm on track for learning more about Machine Learning, DevOps, and JavaScript Frameworks.
+                    🌱 I&apos;m on track for learning more about Machine Learning, DevOps, and JavaScript Frameworks.
                 </div>
                 <div className="">
                     ✍️ In my free time, I pursue Travelling and Content Creation as side hustles.
@@ -26,10 +26,10 @@ const AboutMe = () => {
                     💬 Feel free to reach out to me for collaboration, or just for some interesting discussion.
                 </div>
                 <div className="">
-                    ✉️ You can send me an email at letstalkaditya @gmail.com. I'll try to respond as soon as I can.
+                    ✉️ You can send me an email at letstalkaditya @gmail.com. I&apos;ll try to respond as soon as I can.
                 </div>
                 <div className="">
-                    📄 My Résumé for more details about me.I'm open to feedback and suggestions!
+                    📄 My Résumé for more details about me.I&apos;m open to feedback and suggestions!
                 </div>
             </div>
         </div>
